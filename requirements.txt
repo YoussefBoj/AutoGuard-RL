@@ -1,0 +1,12 @@
+torch>=1.13
+torchvision
+transformers
+numpy
+pandas
+opencv-python
+streamlit
+flask
+gymnasium
+stable-baselines3
+pyyaml
+pillow
