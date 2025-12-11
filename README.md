@@ -211,11 +211,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -226,21 +221,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [DreamerV3](https://github.com/danijar/dreamerv3) for world model architecture
 - [BDD100K](https://bdd-data.berkeley.edu/) for driving dataset
 
----
 
-## 📧 Contact
-
-**Project Maintainer**: Your Name
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- Project Link: [https://github.com/yourusername/AutoGuard-RL](https://github.com/yourusername/AutoGuard-RL)
-
----
-
-## 🌟 Star History
-
-If you find this project useful, please consider giving it a star ⭐
 
 ---
 
